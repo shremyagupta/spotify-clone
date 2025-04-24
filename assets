@@ -1,0 +1,18 @@
+<script>start("c:\\CSS\\spotifyclone\\assets\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("backward_icon.png","backward_icon.png",0,205,"205 B",1745219212,"4/21/25, 12:36:52 PM");</script>
+<script>addRow("card1img.jpeg","card1img.jpeg",0,20878,"20.4 kB",1745219226,"4/21/25, 12:37:06 PM");</script>
+<script>addRow("card2img.jpeg","card2img.jpeg",0,37665,"36.8 kB",1745219236,"4/21/25, 12:37:16 PM");</script>
+<script>addRow("card3img.jpeg","card3img.jpeg",0,28153,"27.5 kB",1745219240,"4/21/25, 12:37:20 PM");</script>
+<script>addRow("card4img (1).jpeg","card4img%20(1).jpeg",0,53364,"52.1 kB",1745314844,"4/22/25, 3:10:44 PM");</script>
+<script>addRow("card5img.jpeg","card5img.jpeg",0,46325,"45.2 kB",1745219249,"4/21/25, 12:37:29 PM");</script>
+<script>addRow("card6img.jpeg","card6img.jpeg",0,48202,"47.1 kB",1745219255,"4/21/25, 12:37:35 PM");</script>
+<script>addRow("forward_icon.png","forward_icon.png",0,210,"210 B",1745219262,"4/21/25, 12:37:42 PM");</script>
+<script>addRow("library_icon.png","library_icon.png",0,891,"891 B",1745219267,"4/21/25, 12:37:47 PM");</script>
+<script>addRow("logo.png","logo.png",0,87857,"85.8 kB",1745219273,"4/21/25, 12:37:53 PM");</script>
+<script>addRow("play_musicbar.png","play_musicbar.png",0,1624,"1.6 kB",1745219279,"4/21/25, 12:37:59 PM");</script>
+<script>addRow("player_icon1.png","player_icon1.png",0,1804,"1.8 kB",1745219283,"4/21/25, 12:38:03 PM");</script>
+<script>addRow("player_icon2.png","player_icon2.png",0,988,"988 B",1745219286,"4/21/25, 12:38:06 PM");</script>
+<script>addRow("player_icon3.png","player_icon3.png",0,1624,"1.6 kB",1745219292,"4/21/25, 12:38:12 PM");</script>
+<script>addRow("player_icon4.png","player_icon4.png",0,973,"973 B",1745219296,"4/21/25, 12:38:16 PM");</script>
+<script>addRow("player_icon5.png","player_icon5.png",0,1183,"1.2 kB",1745219300,"4/21/25, 12:38:20 PM");</script>

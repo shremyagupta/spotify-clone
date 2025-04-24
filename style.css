@@ -175,12 +175,15 @@ icons i:hover{
 }
 .album{
     width: 25%;
+    background-color: pink;
 }
 .player{
-    width:50%
+    width:50%;
+    background-color: orange;
 }
 .controls{
     width: 25%;
+    background-color: green;
 }
 .player-control img{
     height: 20px;
